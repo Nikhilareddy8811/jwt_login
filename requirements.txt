@@ -5,3 +5,4 @@ bcrypt
 python-jose[cryptography]
 passlib[bcrypt]
 pytest
+python-multipart
